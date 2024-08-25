@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.cards{
+    border: 1px solid black;
+    width: 250px;
+}
+.cards  img{
+    width: 100%;
+}
+#cardlar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 20px;
+}
+.cards>*{
+    word-wrap: break-word;
+}
+
+h2,h3,h4{padding:0 7px;}
+
+#searchdiv {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px 50px;
+}
