@@ -4,7 +4,7 @@ FoodFinder is a web application that allows users to search for different types 
 
 • Screenshots
 
-Searcher/foodfinder.png
+[Searcher/foodfinder.png](https://raw.githubusercontent.com/AyanMammadova/Searcher/main/foodmain.png)
 
 • Deploy Link
 
